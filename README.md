@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME&desc=Hoon's%20Github%20Profile&fontSize=90&animation=fadeIn&fontAlignY=45)
-## Tech Stack
+<h3 align="center"> Tech Stack </h3>
 <!--
 **KR-foxn/KR-foxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
